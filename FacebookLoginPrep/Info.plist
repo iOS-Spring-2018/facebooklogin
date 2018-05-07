@@ -47,12 +47,12 @@
     <dict>
         <key>CFBundleURLSchemes</key>
         <array>
-            <string>fb229635804450240</string>
+            <string>fb{your-key-here}</string>
         </array>
     </dict>
 </array>
 <key>FacebookAppID</key>
-<string>229635804450240</string>
+<string>your-key-here</string>
 <key>FacebookDisplayName</key>
 <string>SocMedLogin</string>
 
